@@ -128,5 +128,10 @@ Telegram-Бот работает в качестве отдельного при
 
   ![image](https://github.com/user-attachments/assets/0bbf7877-0cb5-494c-8e97-8f2af3310989)
 
+## Смешные моменты при разработке
 
-  
+![image](https://github.com/user-attachments/assets/7991ab8d-262a-4552-8783-b5946760e97e)
+
+![image](https://github.com/user-attachments/assets/8aeb0226-e976-47a4-8a4b-01d324849caa)
+
+![image](https://github.com/user-attachments/assets/251c42b7-f08d-484e-9183-3a5bae9811a2)
