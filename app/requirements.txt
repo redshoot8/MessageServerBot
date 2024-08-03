@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+motor
+pymongo
+pydantic
+pydantic_settings
+aioredis==1.3.1
